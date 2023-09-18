@@ -14,10 +14,9 @@ per week dedicated.
 
 ## Objectives
 
-Goals for the first week:
-
- -[ ] Create repo
-- [ ] Update timeframe for README.md
-- [ ] Features
+Goals for the first week September 18th, 2023:
+- [x] Create repo
+- [] Update timeframe for README.md
+- [] Features
 
 
