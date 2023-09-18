@@ -1,4 +1,4 @@
-# twelve-week-year
+# Twelve Week Year App
 
 ## Statements
 
