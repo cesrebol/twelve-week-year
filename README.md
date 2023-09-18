@@ -10,3 +10,14 @@ the system based off some spreadsheet I came across.
 
 This project will be worked on during free time. My goal is to track this by hours worked. Ideally I would like to have about 10 hours
 per week dedicated.
+
+
+## Objectives
+
+Goals for the first week:
+
+ -[ ] Create repo
+- [ ] Update timeframe for README.md
+- [ ] Features
+
+
