@@ -18,7 +18,7 @@ Goals for the first week September 18th, 2023:
 - [x] Create repo
 - [ ] Update timeframe for README.md
 - [ ] Features:
-<tab>- [ ] Create Master "Aspirational Vision" List.
-<tab>- [ ] Create 3 Year Vision. 
+    - [ ] Create Master "Aspirational Vision" List.
+    - [ ] Create 3 Year Vision. 
 
 
