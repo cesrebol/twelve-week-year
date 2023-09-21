@@ -6,14 +6,14 @@ function App() {
     <div className="App">
 
       <h1>Twelve Week Year App</h1>
-      <MyButton />
+      <GoalAddButton />
       <AddText />
 
     </div>
   );
 }
 
-function MyButton() {
+function GoalAddButton() {
   return (
     <button>Add Goal</button>
 
