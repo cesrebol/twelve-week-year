@@ -21,4 +21,3 @@ Goals for the first week September 18th, 2023:
     - [ ] Create Master "Aspirational Vision" List.
     - [ ] Create 3 Year Vision. 
 
-
