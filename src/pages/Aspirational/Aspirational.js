@@ -2,7 +2,9 @@ import React from 'react';
 import './Aspirational.css';
 
 const Aspirational = () => {
-    <div className="aspirationa">
-        
+    <div className="aspirational">
+        <h2>hello</h2>
     </div>
 }
+
+export default Aspirational;
